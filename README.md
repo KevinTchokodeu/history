@@ -367,6 +367,7 @@ reflected in Go versions.
 | Go 1.15 | 2020.08.11 |
 | Go 1.16 | 2021.02.16 |
 | Go 1.17 | 2021.08.16 |
+| Go 1.18 | 2022.03.15 |
 
 The historical release notes may helpful for general information:
 
